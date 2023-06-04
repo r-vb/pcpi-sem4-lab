@@ -1,6 +1,6 @@
 ;Program to find the sum of two 64-bit numbers.
 ;Summation is stored in RESULT.
-;Value in NUM1 and NUM2 are two 64-bit input numbers.
+;Values in NUM1 and NUM2 are two 64-bit input numbers.
 
         AREA Addition, CODE, READONLY
         ENTRY
