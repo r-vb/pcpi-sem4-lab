@@ -1,4 +1,4 @@
-;Program to find the difference of two 64-bit numbers.
+;Program to find difference of two 64-bit numbers.
 ;Difference is stored in RESULT.
 ;Values in NUM1 and NUM2 are two 64-bit input numbers.
 
